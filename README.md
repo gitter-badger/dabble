@@ -1,4 +1,4 @@
-![Dabble Logo](images/logo.png =324x)
+<img alt="Dabble Logo" width="324" src="images/logo.png">
 
 Development status: pre-alpha
 
