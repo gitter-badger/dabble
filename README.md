@@ -17,7 +17,7 @@ following ways:
  * Open source (free! as in speech and beer)
  * Web-based — use Dabble in the browser, on mobile, or on your desktop
  * Pluginable — plugins allow for extending the base editor, customize the document formats and editors, and adding
- additional tools
+ additional tools, storage mechanisms, and more
  * Smart — sub-documents and folders may have different views and editors based on their type, sub-documents may be
  linked to other sub-documents to create relationships for organization, and text content can be parsed an auto-linked
 
