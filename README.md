@@ -1,7 +1,8 @@
 <img alt="Dabble Logo" width="324" src="images/logo.png">
+
 <a href="https://travis-ci.org/jacwright/dabble"><img align="right" src="https://travis-ci.org/jacwright/dabble.svg?branch=master" alt="Build status"></a>
 
-Development status: pre-alpha
+<img alt="Dabble Screenshot" src="images/screenshot.png">
 
 Dabble is a writing tool which breaks a document up into multiple sub-documents. This provides:
 
@@ -21,10 +22,12 @@ following ways:
  * Smart — sub-documents and folders may have different views and editors based on their type, sub-documents may be
  linked to other sub-documents to create relationships for organization, and text content can be parsed an auto-linked
 
+## Development status
 
-## Copyright & License
+We are currently pre-alpha.
 
-Copyright (c) 2015-2016 Jacob Wright
+
+## License
 
 Dabble is free software and is released under the terms of the
 [MIT license](https://opensource.org/licenses/MIT). See [LICENSE](LICENSE)
