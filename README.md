@@ -1,4 +1,5 @@
 <img alt="Dabble Logo" width="324" src="images/logo.png">
+<a href="https://travis-ci.org/jacwright/dabble"><img align="right" src="https://travis-ci.org/jacwright/dabble.svg?branch=master" alt="Build status"></a>
 
 Development status: pre-alpha
 
