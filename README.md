@@ -23,6 +23,8 @@ following ways:
 
 ## Development status
 
+[![Join the chat at https://gitter.im/jacwright/dabble](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jacwright/dabble?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 We are currently pre-alpha.
 
 
